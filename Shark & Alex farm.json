@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Entryway",
+    "story": "You've arrived at the Shark & Alex Ventures farmhouse.",
+    "nav": "Press 1 for Nurturing Room, 2 for Fields, 3 for Transfer Room.",
+    "win": 2,
+    "lose": 3,
+    "stranger": 4,
+    "bird": 1
+  },
+  {
+    "id": 2,
+    "name": "Nurturing Room",
+    "story": "You see calves freshly weaned. They look healthy and curious.",
+    "nav": "Press 1 to go back to Entryway, 2 for Feed Station, 3 for Health Check.",
+    "win": 1,
+    "lose": 5,
+    "stranger": 6,
+    "bird": 1
+  },
+  {
+    "id": 3,
+    "name": "Fields",
+    "story": "Vast open fields greet you, with calves grazing.",
+    "nav": "Press 1 for Entryway, 2 for North Field, 3 for South Field.",
+    "win": 1,
+    "lose": 7,
+    "stranger": 8,
+    "bird": 1
+  },
+  {
+    "id": 4,
+    "name": "Transfer Room",
+    "story": "Calves are excitedly moving around, ready for their next phase.",
+    "nav": "Press 1 for Entryway, 2 for Chat with Shark, 3 for Chat with Alex.",
+    "win": 1,
+    "lose": 9,
+    "stranger": 10,
+    "bird": 0
+  },
+  {
+    "id": 5,
+    "name": "Feed Station",
+    "story": "Various types of feed are here. It's essential for the calves' growth.",
+    "nav": "Press 1 for Nurturing Room, 2 to buy feeds, 3 to store feeds.",
+    "win": 2,
+    "lose": 11,
+    "stranger": 12,
+    "bird": 1
+  },
+  {
+    "id": 6,
+    "name": "Health Check",
+    "story": "The health status of calves is monitored here.",
+    "nav": "Press 1 for Nurturing Room, 2 for Medical Supplies, 3 for Vet Talk.",
+    "win": 2,
+    "lose": 13,
+    "stranger": 14,
+    "bird": 1
+  },
+  {
+    "id": 7,
+    "name": "North Field",
+    "story": "A serene field, you can spot some interesting objects.",
+    "nav": "Press 1 for Fields, 2 for Watering Hole, 3 for Nap Area.",
+    "win": 3,
+    "lose": 15,
+    "stranger": 16,
+    "bird": 1
+  },
+  {
+    "id": 8,
+    "name": "South Field",
+    "story": "Another grazing area, with a pond in sight.",
+    "nav": "Press 1 for Fields, 2 for Pond View, 3 for Shade Tree.",
+    "win": 3,
+    "lose": 17,
+    "stranger": 18,
+    "bird": 1
+  },
+  {
+    "id": 9,
+    "name": "Chat with Shark",
+    "story": "Shark shares insights about cattle rearing.",
+    "nav": "Press 1 for Transfer Room, 2 for Shark's Tips, 3 for Shark's History.",
+    "win": 4,
+    "lose": 19,
+    "stranger": 20,
+    "bird": 0
+  },
+  {
+    "id": 10,
+    "name": "Chat with Alex",
+    "story": "Alex talks about the calves' future.",
+    "nav": "Press 1 for Transfer Room, 2 for Alex's Advice, 3 for Alex's Training.",
+    "win": 4,
+    "lose": 21,
+    "stranger": 22,
+    "bird": 0
+  },
+  {
+    "id": 11,
+    "name": "Buy Feeds",
+    "story": "A place to purchase essential feeds for calves.",
+    "nav": "Press 1 for Feed Station, 2 for Purchase, 3 for Feed Info.",
+    "win": 5,
+    "lose": 23,
+    "stranger": 24,
+    "bird": 1
+  },
+  {
+    "id": 12,
+    "name": "Store Feeds",
+    "story": "You store feeds for future use.",
+    "nav": "Press 1 for Feed Station, 2 for Backpack Check, 3 for Feed List.",
+    "win": 5,
+    "lose": 25,
+    "stranger": 26,
+    "bird": 1
+  },
+  {
+    "id": 13,
+    "name": "Medical Supplies",
+    "story": "Various medical tools and drugs ensure calf health.",
+    "nav": "Press 1 for Health Check, 2 for Purchase Drugs, 3 for Drug Info.",
+    "win": 6,
+    "lose": 27,
+    "stranger": 28,
+    "bird": 1
+  },
+  {
+    "id": 14,
+    "name": "Vet Talk",
+    "story": "A vet discusses common calf health issues.",
+    "nav": "Press 1 for Health Check, 2 for Health Tips, 3 for Disease Guide.",
+    "win": 6,
+    "lose": 29,
+    "stranger": 30,
+    "bird": 1
+  },
+  {
+    "id": 15,
+    "name": "Watering Hole",
+    "story": "A place where calves hydrate.",
+    "nav": "Press 1 for North Field, 2 for Drink Water, 3 for Clean Water Hole.",
+    "win": 7,
+    "lose": 31,
+    "stranger": 32,
+    "bird": 1
+  },
+  {
+    "id": 16,
+    "name": "Nap Area",
+    "story": "A restful spot for calves.",
+    "nav": "Press 1 for North Field, 2 for Rest, 3 for Watch Over Calves.",
+    "win": 7,
+    "lose": 33,
+    "stranger": 34,
+    "bird": 1
+  },
+  {
+    "id": 17,
+    "name": "Pond View",
+    "story": "A beautiful pond where calves sometimes play.",
+    "nav": "Press 1 for South Field, 2 for Pond Gaze, 3 for Feed Ducks.",
+    "win": 8,
+    "lose": 35,
+    "stranger": 36,
+    "bird": 1
+  },
+  {
+    "id": 18,
+    "name": "Shade Tree",
+    "story": "A large tree providing shade.",
+    "nav": "Press 1 for South Field, 2 for Rest Under, 3 for Climb Tree (Careful!).",
+    "win": 8,
+    "lose": 37,
+    "stranger": 38,
+    "bird": 1
+  },
+  {
+    "id": 19,
+    "name": "Shark's Tips",
+    "story": "Shark's best practices for cattle farming.",
+    "nav": "Press 1 for Chat with Shark, 2 for Tips List, 3 for Try Tips.",
+    "win": 9,
+    "lose": 39,
+    "stranger": 40,
+    "bird": 0
+  },
+  {
+    "id": 20,
+    "name": "Shark's History",
+    "story": "Shark recounts his farming journey.",
+    "nav": "Press 1 for Chat with Shark, 2 for Listen More, 3 for Thank Shark.",
+    "win": 9,
+    "lose": 41,
+    "stranger": 42,
+    "bird": 0
+  },
+  {
+    "id": 21,
+    "name": "Alex's Advice",
+    "story": "Practical advice from Alex about calves.",
+    "nav": "Press 1 for Chat with Alex, 2 for Advice List, 3 for Follow Advice.",
+    "win": 10,
+    "lose": 43,
+    "stranger": 44,
+    "bird": 0
+  },
+  {
+    "id": 22,
+    "name": "Alex's Training",
+    "story": "Alex describes how he trains calves for market.",
+    "nav": "Press 1 for Chat with Alex, 2 for Training Steps, 3 for Watch Training.",
+    "win": 10,
+    "lose": 45,
+    "stranger": 46,
+    "bird": 0
+  }
+]
