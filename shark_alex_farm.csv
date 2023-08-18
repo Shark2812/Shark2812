@@ -1,0 +1,23 @@
+id,name,c1,c2,c3,story,nav,win,lose,stranger,bird
+1,Entryway,2,3,4,You've arrived at the Shark & Alex Ventures farmhouse.,"Press 1 for Nurturing Room, 2 for Fields, 3 for Transfer Room.",0,0,1,1
+2,Nurturing Room,1,5,6,You see calves freshly weaned. They look healthy and curious.,"Press 1 to go back to Entryway, 2 for Feed Station, 3 for Health Check.",0,0,0,1
+3,Fields,1,7,8,"Vast open fields greet you, with calves grazing.","Press 1 for Entryway, 2 for North Field, 3 for South Field.",0,0,0,1
+4,Transfer Room,1,9,10,"Calves are excitedly moving around, ready for their next phase.","Press 1 for Entryway, 2 for Chat with Shark, 3 for Chat with Alex.",0,0,1,0
+5,Feed Station,2,11,12,Various types of feed are here. It's essential for the calves' growth.,"Press 1 for Nurturing Room, 2 to buy feeds, 3 to store feeds.",0,0,0,1
+6,Health Check,2,13,14,The health status of calves is monitored here.,"Press 1 for Nurturing Room, 2 for Medical Supplies, 3 for Vet Talk.",1,0,0,1
+7,North Field,3,15,16,"A serene field, you can spot some interesting objects.","Press 1 for Fields, 2 for Watering Hole, 3 for Nap Area.",2,1,0,1
+8,South Field,3,17,18,"Another grazing area, with a pond in sight.","Press 1 for Fields, 2 for Pond View, 3 for Shade Tree.",4,2,0,1
+9,Chat with Shark,4,19,20,Shark shares insights about cattle rearing.,"Press 1 for Transfer Room, 2 for Shark's Tips, 3 for Shark's History.",0,2,1,0
+10,Chat with Alex,4,21,22,Alex talks about the calves' future.,"Press 1 for Transfer Room, 2 for Alex's Advice, 3 for Alex's Training.",0,1,1,0
+11,Buy Feeds,5,23,24,A place to purchase essential feeds for calves.,"Press 1 for Feed Station, 2 for Purchase, 3 for Feed Info.",0,1,0,1
+12,Store Feeds,5,25,26,You store feeds for future use.,"Press 1 for Feed Station, 2 for Backpack Check, 3 for Feed List.",0,1,0,1
+13,Medical Supplies,6,27,28,Various medical tools and drugs ensure calf health.,"Press 1 for Health Check, 2 for Purchase Drugs, 3 for Drug Info.",1,1,0,1
+14,Vet Talk,6,29,30,A vet discusses common calf health issues.,"Press 1 for Health Check, 2 for Health Tips, 3 for Disease Guide.",1,1,0,1
+15,Watering Hole,7,31,32,A place where calves hydrate.,"Press 1 for North Field, 2 for Drink Water, 3 for Clean Water Hole.",1,2,0,1
+16,Nap Area,7,33,34,A restful spot for calves.,"Press 1 for North Field, 2 for Rest, 3 for Watch Over Calves.",1,2,0,1
+17,Pond View,8,35,36,A beautiful pond where calves sometimes play.,"Press 1 for South Field, 2 for Pond Gaze, 3 for Feed Ducks.",0,2,0,1
+18,Shade Tree,8,37,38,A large tree providing shade.,"Press 1 for South Field, 2 for Rest Under, 3 for Climb Tree (Careful!).",0,0,0,1
+19,Shark's Tips,9,39,40,Shark's best practices for cattle farming.,"Press 1 for Chat with Shark, 2 for Tips List, 3 for Try Tips.",0,0,1,0
+20,Shark's History,9,41,42,Shark recounts his farming journey.,"Press 1 for Chat with Shark, 2 for Listen More, 3 for Thank Shark.",0,0,1,0
+21,Alex's Advice,10,43,44,Practical advice from Alex about calves.,"Press 1 for Chat with Alex, 2 for Advice List, 3 for Follow Advice.",0,0,1,0
+22,Alex's Training,10,45,46,Alex describes how he trains calves for market.,"Press 1 for Chat with Alex, 2 for Training Steps, 3 for Watch Training.",0,0,1,0
